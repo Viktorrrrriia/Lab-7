@@ -30,11 +30,11 @@ body {
 	 background: url(https://rawcdn.githack.com/Viktorrrrriia/Pictures-for-veb-design/870d3ee4f28f1520ca2f13fc500257a94bdd3fa8/%D0%9E%D0%B1%D0%BB%D0%B0%D0%BA%D0%B0.png) 0 100% repeat-x;
 	 z-index: 1;
 	 position: absolute;
-	 bottom: 500;
+	 bottom: 200;
 	 left: 0;
 	 width: 100%;
 	 height: 100%;
-	 background-size: auto 500px;
+	 background-size: auto 200px;
 }
 .layer-3 {
      animation: animation_fg linear 55s infinite both; 
